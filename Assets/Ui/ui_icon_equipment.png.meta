@@ -1,0 +1,5928 @@
+fileFormatVersion: 2
+guid: 456ffee3bd85fd045a15ee59cdfc697d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1943044684611406591
+    second: ui_icon_equipment_0
+  - first:
+      213: -1904472579309168112
+    second: ui_icon_equipment_1
+  - first:
+      213: 8189746394373408642
+    second: ui_icon_equipment_2
+  - first:
+      213: -1031637741465052620
+    second: ui_icon_equipment_3
+  - first:
+      213: 1485649978530296427
+    second: ui_icon_equipment_4
+  - first:
+      213: -4468458495344753454
+    second: ui_icon_equipment_5
+  - first:
+      213: -5209424318111887308
+    second: ui_icon_equipment_6
+  - first:
+      213: 3850345794161301383
+    second: ui_icon_equipment_7
+  - first:
+      213: 6902478289830381054
+    second: ui_icon_equipment_8
+  - first:
+      213: -4428081986020933872
+    second: ui_icon_equipment_9
+  - first:
+      213: -4241013314367411705
+    second: ui_icon_equipment_10
+  - first:
+      213: 610818399669903829
+    second: ui_icon_equipment_11
+  - first:
+      213: -5080908629036662673
+    second: ui_icon_equipment_12
+  - first:
+      213: 8695632364017471546
+    second: ui_icon_equipment_13
+  - first:
+      213: 5028716592720613176
+    second: ui_icon_equipment_14
+  - first:
+      213: 1305447697354465696
+    second: ui_icon_equipment_15
+  - first:
+      213: 1525498709430147415
+    second: ui_icon_equipment_16
+  - first:
+      213: -8916131132762174464
+    second: ui_icon_equipment_17
+  - first:
+      213: -4186858224700345389
+    second: ui_icon_equipment_18
+  - first:
+      213: 5600035871229479785
+    second: ui_icon_equipment_19
+  - first:
+      213: -499324344897897549
+    second: ui_icon_equipment_20
+  - first:
+      213: -364245879705006279
+    second: ui_icon_equipment_21
+  - first:
+      213: 7849530363291815967
+    second: ui_icon_equipment_22
+  - first:
+      213: -8174773074482657906
+    second: ui_icon_equipment_23
+  - first:
+      213: 2011548510049793426
+    second: ui_icon_equipment_24
+  - first:
+      213: -6058843596709478322
+    second: ui_icon_equipment_25
+  - first:
+      213: 6987870871006914129
+    second: ui_icon_equipment_26
+  - first:
+      213: -3199062844577561022
+    second: ui_icon_equipment_27
+  - first:
+      213: -2166860074400940381
+    second: ui_icon_equipment_28
+  - first:
+      213: 2984298335259907298
+    second: ui_icon_equipment_29
+  - first:
+      213: -328703015373340234
+    second: ui_icon_equipment_30
+  - first:
+      213: 7290973151355387994
+    second: ui_icon_equipment_31
+  - first:
+      213: -9200630518481145564
+    second: ui_icon_equipment_32
+  - first:
+      213: -1595673044631260352
+    second: ui_icon_equipment_33
+  - first:
+      213: -930416022127342245
+    second: ui_icon_equipment_34
+  - first:
+      213: -3514961115881204519
+    second: ui_icon_equipment_35
+  - first:
+      213: -8139662551846616018
+    second: ui_icon_equipment_36
+  - first:
+      213: 1200943565012841298
+    second: ui_icon_equipment_37
+  - first:
+      213: -8964780310208858158
+    second: ui_icon_equipment_38
+  - first:
+      213: -3104668182083758834
+    second: ui_icon_equipment_39
+  - first:
+      213: -6180924506043406530
+    second: ui_icon_equipment_40
+  - first:
+      213: 7606402993518114754
+    second: ui_icon_equipment_41
+  - first:
+      213: 3744173887667574049
+    second: ui_icon_equipment_42
+  - first:
+      213: -8641949392301093950
+    second: ui_icon_equipment_43
+  - first:
+      213: 1809322034550392107
+    second: ui_icon_equipment_44
+  - first:
+      213: -2829986801365871974
+    second: ui_icon_equipment_45
+  - first:
+      213: -6195597177406061567
+    second: ui_icon_equipment_46
+  - first:
+      213: -8012394725172860294
+    second: ui_icon_equipment_47
+  - first:
+      213: 7478608008426613171
+    second: ui_icon_equipment_48
+  - first:
+      213: -8928526938439297565
+    second: ui_icon_equipment_49
+  - first:
+      213: 8513234091836315803
+    second: ui_icon_equipment_50
+  - first:
+      213: 3890100035276665409
+    second: ui_icon_equipment_51
+  - first:
+      213: -5756208344414283693
+    second: ui_icon_equipment_52
+  - first:
+      213: -2846144128636865576
+    second: ui_icon_equipment_53
+  - first:
+      213: -7820174597463930619
+    second: ui_icon_equipment_54
+  - first:
+      213: -6478409711465186550
+    second: ui_icon_equipment_55
+  - first:
+      213: 6272641996108281346
+    second: ui_icon_equipment_56
+  - first:
+      213: 840949753099463049
+    second: ui_icon_equipment_57
+  - first:
+      213: 4093231234008600690
+    second: ui_icon_equipment_58
+  - first:
+      213: 3225982721558427773
+    second: ui_icon_equipment_59
+  - first:
+      213: 6846973955800789480
+    second: ui_icon_equipment_60
+  - first:
+      213: 1515175765759420874
+    second: ui_icon_equipment_61
+  - first:
+      213: -3553303078987248275
+    second: ui_icon_equipment_62
+  - first:
+      213: -3796276597158350299
+    second: ui_icon_equipment_63
+  - first:
+      213: 3672629804078495513
+    second: ui_icon_equipment_64
+  - first:
+      213: -3760658881940131747
+    second: ui_icon_equipment_65
+  - first:
+      213: 3083591843140711385
+    second: ui_icon_equipment_66
+  - first:
+      213: 2006917240470729177
+    second: ui_icon_equipment_67
+  - first:
+      213: -7288978297376419615
+    second: ui_icon_equipment_68
+  - first:
+      213: -3831696666549009487
+    second: ui_icon_equipment_69
+  - first:
+      213: 3296510320156995615
+    second: ui_icon_equipment_70
+  - first:
+      213: 6676558952936457058
+    second: ui_icon_equipment_71
+  - first:
+      213: -8085222082883460255
+    second: ui_icon_equipment_72
+  - first:
+      213: 5664378649389162441
+    second: ui_icon_equipment_73
+  - first:
+      213: -1720396993694620811
+    second: ui_icon_equipment_74
+  - first:
+      213: -4767660963715197583
+    second: ui_icon_equipment_75
+  - first:
+      213: -6662436570771710000
+    second: ui_icon_equipment_76
+  - first:
+      213: 5300381083811576290
+    second: ui_icon_equipment_77
+  - first:
+      213: 8007918902591929249
+    second: ui_icon_equipment_78
+  - first:
+      213: -3156448462941214619
+    second: ui_icon_equipment_79
+  - first:
+      213: 4379605856959379743
+    second: ui_icon_equipment_80
+  - first:
+      213: 738854648046204581
+    second: ui_icon_equipment_81
+  - first:
+      213: -4875720615052905014
+    second: ui_icon_equipment_82
+  - first:
+      213: -2706357553222620149
+    second: ui_icon_equipment_83
+  - first:
+      213: 5675440104716929190
+    second: ui_icon_equipment_84
+  - first:
+      213: -6549916204141454225
+    second: ui_icon_equipment_85
+  - first:
+      213: -5085422108552514985
+    second: ui_icon_equipment_86
+  - first:
+      213: 8923855017130675436
+    second: ui_icon_equipment_87
+  - first:
+      213: 7101146315618977552
+    second: ui_icon_equipment_88
+  - first:
+      213: 5809164367728356447
+    second: ui_icon_equipment_89
+  - first:
+      213: 215250513173126361
+    second: ui_icon_equipment_90
+  - first:
+      213: 3747323662615829439
+    second: ui_icon_equipment_91
+  - first:
+      213: 7716352043573431226
+    second: ui_icon_equipment_92
+  - first:
+      213: 2660556217406500940
+    second: ui_icon_equipment_93
+  - first:
+      213: 988262910140753241
+    second: ui_icon_equipment_94
+  - first:
+      213: 5146632836505223458
+    second: ui_icon_equipment_95
+  - first:
+      213: -4802996112475974313
+    second: ui_icon_equipment_96
+  - first:
+      213: 4186729590354533060
+    second: ui_icon_equipment_97
+  - first:
+      213: 5138059082953466553
+    second: ui_icon_equipment_98
+  - first:
+      213: 665499979051276666
+    second: ui_icon_equipment_99
+  - first:
+      213: 4142191557830442550
+    second: ui_icon_equipment_100
+  - first:
+      213: -6559215954108366694
+    second: ui_icon_equipment_101
+  - first:
+      213: 3115781344378810618
+    second: ui_icon_equipment_102
+  - first:
+      213: -3777420024935990150
+    second: ui_icon_equipment_103
+  - first:
+      213: -739735323817877460
+    second: ui_icon_equipment_104
+  - first:
+      213: 1571379840863097879
+    second: ui_icon_equipment_105
+  - first:
+      213: 7177235694697159743
+    second: ui_icon_equipment_106
+  - first:
+      213: 3111839902886666309
+    second: ui_icon_equipment_107
+  - first:
+      213: 129629251152342566
+    second: ui_icon_equipment_108
+  - first:
+      213: 3504405819546924885
+    second: ui_icon_equipment_109
+  - first:
+      213: 5206439216554298493
+    second: ui_icon_equipment_110
+  - first:
+      213: 7331415145222754832
+    second: ui_icon_equipment_111
+  - first:
+      213: 3099944673997566905
+    second: ui_icon_equipment_112
+  - first:
+      213: -1145865392792596427
+    second: ui_icon_equipment_113
+  - first:
+      213: -1651737797549497415
+    second: ui_icon_equipment_114
+  - first:
+      213: -3439850757466394305
+    second: ui_icon_equipment_115
+  - first:
+      213: -7250342462764255053
+    second: ui_icon_equipment_116
+  - first:
+      213: 91214746606097374
+    second: ui_icon_equipment_117
+  - first:
+      213: -1477374203046485388
+    second: ui_icon_equipment_118
+  - first:
+      213: -3564574852868214211
+    second: ui_icon_equipment_119
+  - first:
+      213: -7861488839828123199
+    second: ui_icon_equipment_120
+  - first:
+      213: 5281572180191020094
+    second: ui_icon_equipment_121
+  - first:
+      213: -7036311486795460627
+    second: ui_icon_equipment_122
+  - first:
+      213: -4197343392789009428
+    second: ui_icon_equipment_123
+  - first:
+      213: -4032182039270331302
+    second: ui_icon_equipment_124
+  - first:
+      213: -7180710744059268514
+    second: ui_icon_equipment_125
+  - first:
+      213: -8016577044435495891
+    second: ui_icon_equipment_126
+  - first:
+      213: 5723960093222687150
+    second: ui_icon_equipment_127
+  - first:
+      213: 3655497656700696018
+    second: ui_icon_equipment_128
+  - first:
+      213: -7906131192077115719
+    second: ui_icon_equipment_129
+  - first:
+      213: 6918303650514769374
+    second: ui_icon_equipment_130
+  - first:
+      213: -7145513574970581109
+    second: ui_icon_equipment_131
+  - first:
+      213: 7443922824870301982
+    second: ui_icon_equipment_132
+  - first:
+      213: -495805768661613033
+    second: ui_icon_equipment_133
+  - first:
+      213: 2458271650078136106
+    second: ui_icon_equipment_134
+  - first:
+      213: 2053515293297959748
+    second: ui_icon_equipment_135
+  - first:
+      213: 7114113354520632564
+    second: ui_icon_equipment_136
+  - first:
+      213: -6578090711296900256
+    second: ui_icon_equipment_137
+  - first:
+      213: -5958580335801834507
+    second: ui_icon_equipment_138
+  - first:
+      213: 6908962995013665714
+    second: ui_icon_equipment_139
+  - first:
+      213: 2618265850666682175
+    second: ui_icon_equipment_140
+  - first:
+      213: -1213457823631099274
+    second: ui_icon_equipment_141
+  - first:
+      213: 5542155859912330721
+    second: ui_icon_equipment_142
+  - first:
+      213: 8548537855781957810
+    second: ui_icon_equipment_143
+  - first:
+      213: 1543642301719500412
+    second: ui_icon_equipment_144
+  - first:
+      213: -3357390472413850347
+    second: ui_icon_equipment_145
+  - first:
+      213: 1249319200922745567
+    second: ui_icon_equipment_146
+  - first:
+      213: -5152593872831659716
+    second: ui_icon_equipment_147
+  - first:
+      213: -8513221559164281292
+    second: ui_icon_equipment_148
+  - first:
+      213: -3643080930876223625
+    second: ui_icon_equipment_149
+  - first:
+      213: 6457860334739077986
+    second: ui_icon_equipment_150
+  - first:
+      213: -1320716969358071192
+    second: ui_icon_equipment_151
+  - first:
+      213: 2579239251392484321
+    second: ui_icon_equipment_152
+  - first:
+      213: -8483631620591975128
+    second: ui_icon_equipment_153
+  - first:
+      213: 2121538861396716282
+    second: ui_icon_equipment_154
+  - first:
+      213: -1898500064399978650
+    second: ui_icon_equipment_155
+  - first:
+      213: 19250422262574323
+    second: ui_icon_equipment_156
+  - first:
+      213: 204619054316122543
+    second: ui_icon_equipment_157
+  - first:
+      213: -198200247186362481
+    second: ui_icon_equipment_158
+  - first:
+      213: -122529814709080636
+    second: ui_icon_equipment_159
+  - first:
+      213: 2345025607889453698
+    second: ui_icon_equipment_160
+  - first:
+      213: -3978309158737546141
+    second: ui_icon_equipment_161
+  - first:
+      213: 8615035361764440041
+    second: ui_icon_equipment_162
+  - first:
+      213: 4357203260802382859
+    second: ui_icon_equipment_163
+  - first:
+      213: 7209680797919452561
+    second: ui_icon_equipment_164
+  - first:
+      213: -8229706808230747950
+    second: ui_icon_equipment_165
+  - first:
+      213: -2112583399741709718
+    second: ui_icon_equipment_166
+  - first:
+      213: -903391322413150166
+    second: ui_icon_equipment_167
+  - first:
+      213: 779204667054708145
+    second: ui_icon_equipment_168
+  - first:
+      213: -7176298479889288097
+    second: ui_icon_equipment_169
+  - first:
+      213: -1457089231678532899
+    second: ui_icon_equipment_170
+  - first:
+      213: 8342557855207952313
+    second: ui_icon_equipment_171
+  - first:
+      213: -4033994734190094925
+    second: ui_icon_equipment_172
+  - first:
+      213: 3716216407770995814
+    second: ui_icon_equipment_173
+  - first:
+      213: -8369299890954577820
+    second: ui_icon_equipment_174
+  - first:
+      213: 8661008768792607362
+    second: ui_icon_equipment_175
+  - first:
+      213: 4005686906520423183
+    second: ui_icon_equipment_176
+  - first:
+      213: -4193927085558016140
+    second: ui_icon_equipment_177
+  - first:
+      213: -2126377365676126936
+    second: ui_icon_equipment_178
+  - first:
+      213: 3361678955442635904
+    second: ui_icon_equipment_179
+  - first:
+      213: -5378156034002479457
+    second: ui_icon_equipment_180
+  - first:
+      213: -2883097872461832458
+    second: ui_icon_equipment_181
+  - first:
+      213: -8935188052175679500
+    second: ui_icon_equipment_182
+  - first:
+      213: -7956088779066497226
+    second: ui_icon_equipment_183
+  - first:
+      213: 3083711000929335215
+    second: ui_icon_equipment_184
+  - first:
+      213: -1984096672487482659
+    second: ui_icon_equipment_185
+  - first:
+      213: -7830026917470226056
+    second: ui_icon_equipment_186
+  - first:
+      213: -5046622923117870453
+    second: ui_icon_equipment_187
+  - first:
+      213: 5627451613310661084
+    second: ui_icon_equipment_188
+  - first:
+      213: 1662754769520682038
+    second: ui_icon_equipment_189
+  - first:
+      213: -1148994319112057673
+    second: ui_icon_equipment_190
+  - first:
+      213: -5166640930875576287
+    second: ui_icon_equipment_191
+  - first:
+      213: -8143428558160383065
+    second: ui_icon_equipment_192
+  - first:
+      213: 821247502144094037
+    second: ui_icon_equipment_193
+  - first:
+      213: -6452341296697856962
+    second: ui_icon_equipment_194
+  - first:
+      213: -4632201352322267098
+    second: ui_icon_equipment_195
+  - first:
+      213: 6989181028188484083
+    second: ui_icon_equipment_196
+  - first:
+      213: 4578510403799798646
+    second: ui_icon_equipment_197
+  - first:
+      213: 9012056795510458329
+    second: ui_icon_equipment_198
+  - first:
+      213: -1028727634170652665
+    second: ui_icon_equipment_199
+  - first:
+      213: 5102166203407666223
+    second: ui_icon_equipment_200
+  - first:
+      213: 7131798497034548601
+    second: ui_icon_equipment_201
+  - first:
+      213: -6352366926347703508
+    second: ui_icon_equipment_202
+  - first:
+      213: 6696632017693958183
+    second: ui_icon_equipment_203
+  - first:
+      213: -5976953926946747949
+    second: ui_icon_equipment_204
+  - first:
+      213: 1506709157438645307
+    second: ui_icon_equipment_205
+  - first:
+      213: 1737664961310062774
+    second: ui_icon_equipment_206
+  - first:
+      213: -4891137802197208876
+    second: ui_icon_equipment_207
+  - first:
+      213: -4397167874670509492
+    second: ui_icon_equipment_208
+  - first:
+      213: -5173110655766784837
+    second: ui_icon_equipment_209
+  - first:
+      213: 7947989848078769946
+    second: ui_icon_equipment_210
+  - first:
+      213: -2895186072900918336
+    second: ui_icon_equipment_211
+  - first:
+      213: -5523086892668778144
+    second: ui_icon_equipment_212
+  - first:
+      213: 4053200001225445469
+    second: ui_icon_equipment_213
+  - first:
+      213: 8555583797131468080
+    second: ui_icon_equipment_214
+  - first:
+      213: 812752018139884255
+    second: ui_icon_equipment_215
+  - first:
+      213: -5381681837404709059
+    second: ui_icon_equipment_216
+  - first:
+      213: -1093569622362403795
+    second: ui_icon_equipment_217
+  - first:
+      213: -7111000694149947214
+    second: ui_icon_equipment_218
+  - first:
+      213: -200137135101394126
+    second: ui_icon_equipment_219
+  - first:
+      213: -8603154797367517081
+    second: ui_icon_equipment_220
+  - first:
+      213: 7191281818352083796
+    second: ui_icon_equipment_221
+  - first:
+      213: 4847917710012770243
+    second: ui_icon_equipment_222
+  - first:
+      213: 8748058930463520612
+    second: ui_icon_equipment_223
+  - first:
+      213: 2369624012647304858
+    second: ui_icon_equipment_224
+  - first:
+      213: -2020869401367325387
+    second: ui_icon_equipment_225
+  - first:
+      213: 3618036528106607868
+    second: ui_icon_equipment_226
+  - first:
+      213: 2410216020084966681
+    second: ui_icon_equipment_227
+  - first:
+      213: 2791630447351171287
+    second: ui_icon_equipment_228
+  - first:
+      213: 4785896843790732866
+    second: ui_icon_equipment_229
+  - first:
+      213: 3256673121980865446
+    second: ui_icon_equipment_230
+  - first:
+      213: -6414382013367087824
+    second: ui_icon_equipment_231
+  - first:
+      213: 4673033482295508818
+    second: ui_icon_equipment_232
+  - first:
+      213: -9220011083443839365
+    second: ui_icon_equipment_233
+  - first:
+      213: -1467741154960648192
+    second: ui_icon_equipment_234
+  - first:
+      213: -8651282458411177952
+    second: ui_icon_equipment_235
+  - first:
+      213: 2890428011797480982
+    second: ui_icon_equipment_236
+  - first:
+      213: -3833367050800751818
+    second: ui_icon_equipment_237
+  - first:
+      213: 1162704248391883654
+    second: ui_icon_equipment_238
+  - first:
+      213: -7646393157544986488
+    second: ui_icon_equipment_239
+  - first:
+      213: 6707514634891301352
+    second: ui_icon_equipment_240
+  - first:
+      213: 889888160456719945
+    second: ui_icon_equipment_241
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_icon_equipment_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2001
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa49f098d417fa10800000000000000
+      internalID: 1943044684611406591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2000
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1ec98744f195e0800000000000000
+      internalID: -1904472579309168112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2001
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c92d54f2d7a170800000000000000
+      internalID: 8189746394373408642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2000
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad613a0f2eea1f0800000000000000
+      internalID: -1031637741465052620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1999
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627ddeb8c61e9410800000000000000
+      internalID: 1485649978530296427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1998
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d446636ca8dcf1c0800000000000000
+      internalID: -4468458495344753454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2000
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d8a2fe2864b7b0800000000000000
+      internalID: -5209424318111887308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2001
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787576b891d2f6530800000000000000
+      internalID: 3850345794161301383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1998
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58f270f678acf50800000000000000
+      internalID: 6902478289830381054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1948
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7aea05ea4c82c0800000000000000
+      internalID: -4428081986020933872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2000
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aad654cd4e425c0800000000000000
+      internalID: -4241013314367411705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2000
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e89629101a7800800000000000000
+      internalID: 610818399669903829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1948
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608d0e858cfc79b0800000000000000
+      internalID: -5080908629036662673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1999
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d6aa40971da870800000000000000
+      internalID: 8695632364017471546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2003
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f8939091799c540800000000000000
+      internalID: 5028716592720613176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1998
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12aa1a3c1ed1210800000000000000
+      internalID: 1305447697354465696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_16
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1999
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75996e86ef8ab2510800000000000000
+      internalID: 1525498709430147415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_17
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2003
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc8e479f9834480800000000000000
+      internalID: -8916131132762174464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1998
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d330d7a0aa45e5c0800000000000000
+      internalID: -4186858224700345389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1948
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b041264f257bd40800000000000000
+      internalID: 5600035871229479785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1948
+        width: 149
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf7a2672b0219f0800000000000000
+      internalID: -499324344897897549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1948
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f88416d40f1faf0800000000000000
+      internalID: -364245879705006279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1949
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d6add6422fec60800000000000000
+      internalID: 7849530363291815967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1948
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858808533f5d8e80800000000000000
+      internalID: -8174773074482657906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1948
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295fbf556b47aeb10800000000000000
+      internalID: 2011548510049793426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_25
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1949
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404b7499d9aaeba0800000000000000
+      internalID: -6058843596709478322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1948
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156aaaaa887e9f060800000000000000
+      internalID: 6987870871006914129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1952
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246cdceca45aa93d0800000000000000
+      internalID: -3199062844577561022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1950
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aefa5b2e34cde1e0800000000000000
+      internalID: -2166860074400940381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_29
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1949
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d4f0468b5a6920800000000000000
+      internalID: 2984298335259907298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1952
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1821c5956307bf0800000000000000
+      internalID: -328703015373340234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_31
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1950
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c271b37dbe2560800000000000000
+      internalID: 7290973151355387994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_32
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1952
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421305c5a4bc05080800000000000000
+      internalID: -9200630518481145564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1899
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437615f1d70bd9e0800000000000000
+      internalID: -1595673044631260352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1903
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d84c3be8f7613f0800000000000000
+      internalID: -930416022127342245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1899
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41798fc79583fc0800000000000000
+      internalID: -3514961115881204519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1901
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2402ade80c1a0f80800000000000000
+      internalID: -8139662551846616018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1896
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b1eb3fcb9aa010800000000000000
+      internalID: 1200943565012841298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1902
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b5982ec3b69380800000000000000
+      internalID: -8964780310208858158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1899
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e059075dcb00ae4d0800000000000000
+      internalID: -3104668182083758834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1904
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a6c1e8e1f83aa0800000000000000
+      internalID: -6180924506043406530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1902
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c77d1fd83f5f8960800000000000000
+      internalID: 7606402993518114754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1902
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12518b7305af5f330800000000000000
+      internalID: 3744173887667574049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1902
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8df090d0a11880800000000000000
+      internalID: -8641949392301093950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_44
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1910
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c9a1edc00c1910800000000000000
+      internalID: 1809322034550392107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1900
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921b818ffdd9b8d0800000000000000
+      internalID: -2829986801365871974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_46
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1914
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048c4d5131d40aa0800000000000000
+      internalID: -6195597177406061567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1901
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aabdde2714ec090800000000000000
+      internalID: -8012394725172860294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_48
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1908
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e8ac3c5a59c760800000000000000
+      internalID: 7478608008426613171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1906
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5d1da0e00871480800000000000000
+      internalID: -8928526938439297565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_50
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1909
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9816ad2d45152670800000000000000
+      internalID: 8513234091836315803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1900
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14276671f596cf530800000000000000
+      internalID: 3890100035276665409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_52
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1899
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581c0a2207dd10b0800000000000000
+      internalID: -5756208344414283693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1859
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d339099ef67088d0800000000000000
+      internalID: -2846144128636865576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1850
+        width: 100
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50901acf2a8297390800000000000000
+      internalID: -7820174597463930619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1850
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3da601b01816a0800000000000000
+      internalID: -6478409711465186550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1852
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063b3d59a6ec0750800000000000000
+      internalID: 6272641996108281346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1849
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989227b4857abab00800000000000000
+      internalID: 840949753099463049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1848
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270dd96de141ec830800000000000000
+      internalID: 4093231234008600690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1851
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b90a713ef4cc20800000000000000
+      internalID: 3225982721558427773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1847
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17bd53986550f50800000000000000
+      internalID: 6846973955800789480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_61
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1849
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ee5ac45cf60510800000000000000
+      internalID: 1515175765759420874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1851
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc9a50da120bec0800000000000000
+      internalID: -3553303078987248275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_63
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1851
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227f356c8ae05bc0800000000000000
+      internalID: -3796276597158350299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1851
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177c9f295dc7f230800000000000000
+      internalID: 3672629804078495513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_65
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1855
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507a84fba47fcbc0800000000000000
+      internalID: -3760658881940131747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_66
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1872
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b1ba917e1bca20800000000000000
+      internalID: 3083591843140711385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_67
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1853
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17ddbd8900adb10800000000000000
+      internalID: 2006917240470729177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_68
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1848
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d8517bd858da90800000000000000
+      internalID: -7288978297376419615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_69
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1849
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34c47de2413dac0800000000000000
+      internalID: -3831696666549009487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_70
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1852
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10fd57abae8fbd20800000000000000
+      internalID: 3296510320156995615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_71
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1855
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634bb76ef6e7ac50800000000000000
+      internalID: 6676558952936457058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_72
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1852
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163669b5a558bcf80800000000000000
+      internalID: -8085222082883460255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1804
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd526de5aeb9e40800000000000000
+      internalID: 5664378649389162441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1809
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ae2e9c0cef18e0800000000000000
+      internalID: -1720396993694620811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1804
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17552481d9dd5ddb0800000000000000
+      internalID: -4767660963715197583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_76
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1803
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df949cec354a83a0800000000000000
+      internalID: -6662436570771710000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_77
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1799
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f9ca538cbe8940800000000000000
+      internalID: 5300381083811576290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_78
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1803
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb02b60d7d12f60800000000000000
+      internalID: 8007918902591929249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1799
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568af86b8da0234d0800000000000000
+      internalID: -3156448462941214619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_80
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1815
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b840a25c77cc30800000000000000
+      internalID: 4379605856959379743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1803
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6b0754360f04a00800000000000000
+      internalID: 738854648046204581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1806
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f8bbeee5f55cb0800000000000000
+      internalID: -4875720615052905014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1798
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c68fce426117ad0800000000000000
+      internalID: -2706357553222620149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_84
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1805
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a888a994b633ce40800000000000000
+      internalID: 5675440104716929190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_85
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1804
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd29f4ae50a15a0800000000000000
+      internalID: -6549916204141454225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1798
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523fc63983fc69b0800000000000000
+      internalID: -5085422108552514985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1801
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec49238bd6e7db70800000000000000
+      internalID: 8923855017130675436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_88
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1799
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170b8853f65c8260800000000000000
+      internalID: 7101146315618977552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1798
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c2e44d63c4e9050800000000000000
+      internalID: 5809164367728356447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_90
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1798
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc97678339bcf200800000000000000
+      internalID: 215250513173126361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_91
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1800
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbd1a8540b210430800000000000000
+      internalID: 3747323662615829439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1748
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcd07fc4df51b60800000000000000
+      internalID: 7716352043573431226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_93
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1754
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b87398c13ce420800000000000000
+      internalID: 2660556217406500940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1751
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95522a771e307bd00800000000000000
+      internalID: 988262910140753241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1748
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2214149fb438c6740800000000000000
+      internalID: 5146632836505223458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1751
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755994aab74585db0800000000000000
+      internalID: -4802996112475974313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1750
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad2b351604a1a30800000000000000
+      internalID: 4186729590354533060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_98
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1756
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2296a638d0e4740800000000000000
+      internalID: 5138059082953466553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_99
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1757
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79916974b45c3900800000000000000
+      internalID: 665499979051276666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_100
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1755
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efa1c86450c7930800000000000000
+      internalID: 4142191557830442550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_101
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1756
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90cb4a87dbf8f4a0800000000000000
+      internalID: -6559215954108366694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_102
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1755
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0fc75ef9a7d3b20800000000000000
+      internalID: 3115781344378810618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_103
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1757
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3e3e3088e39bc0800000000000000
+      internalID: -3777420024935990150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_104
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1748
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e60c64aeebb5f0800000000000000
+      internalID: -739735323817877460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_105
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1749
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714dad5c3a9aec510800000000000000
+      internalID: 1571379840863097879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_106
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1751
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9da376d9aa9360800000000000000
+      internalID: 7177235694697159743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_107
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1752
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540227987e97f2b20800000000000000
+      internalID: 3111839902886666309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_108
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1760
+        width: 150
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6f6bfd198cc100800000000000000
+      internalID: 129629251152342566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f7e6968622a030800000000000000
+      internalID: 3504405819546924885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1714
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc16fe1ecf04840800000000000000
+      internalID: 5206439216554298493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_111
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1708
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012dbe72b3b6eb560800000000000000
+      internalID: 7331415145222754832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_112
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1704
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b33dfcb147350b20800000000000000
+      internalID: 3099944673997566905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1701
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301f2e0f711910f0800000000000000
+      internalID: -1145865392792596427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1699
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e9f27939d319e0800000000000000
+      internalID: -1651737797549497415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1701
+        width: 100
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317bd016f13340d0800000000000000
+      internalID: -3439850757466394305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_116
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1700
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8710fa1fb916b90800000000000000
+      internalID: -7250342462764255053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_117
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1700
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3dbb9245f044100800000000000000
+      internalID: 91214746606097374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_118
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1699
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472a6136dff4f7be0800000000000000
+      internalID: -1477374203046485388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1698
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ff77ae06188ec0800000000000000
+      internalID: -3564574852868214211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_120
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1698
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d8585d8166e290800000000000000
+      internalID: -7861488839828123199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e340fd73ae9eb4940800000000000000
+      internalID: 5281572180191020094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1648
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def4e849bfff95e90800000000000000
+      internalID: -7036311486795460627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1649
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6a783c6a00c5c0800000000000000
+      internalID: -4197343392789009428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_124
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1648
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce4977ccfca08c0800000000000000
+      internalID: -4032182039270331302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_125
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1650
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5234819f9df85c90800000000000000
+      internalID: -7180710744059268514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_126
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1646
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241fd7d6a56fb090800000000000000
+      internalID: -8016577044435495891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_127
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1649
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1dc01c0679f6f40800000000000000
+      internalID: 5723960093222687150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_128
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1652
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5fae840cfeab230800000000000000
+      internalID: 3655497656700696018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_129
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1660
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9b9cb197c74290800000000000000
+      internalID: -7906131192077115719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_130
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1649
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59831f380c20060800000000000000
+      internalID: 6918303650514769374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1600
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f952a134906dc90800000000000000
+      internalID: -7145513574970581109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1601
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1111df9e502e4760800000000000000
+      internalID: 7443922824870301982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_133
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1600
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c551c74b8e19f0800000000000000
+      internalID: -495805768661613033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_134
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1602
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2712509a098d1220800000000000000
+      internalID: 2458271650078136106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_135
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1601
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436bdd774d8f7c10800000000000000
+      internalID: 2053515293297959748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1600
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc901c57686ab260800000000000000
+      internalID: 7114113354520632564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_137
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1601
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630adca95de5b4a0800000000000000
+      internalID: -6578090711296900256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_138
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1598
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f367e621cede4da0800000000000000
+      internalID: -5958580335801834507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_139
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1600
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3cb1c1d3191ef50800000000000000
+      internalID: 6908962995013665714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_140
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1601
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3706844be2f55420800000000000000
+      internalID: 2618265850666682175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1548
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abc80e98ee82fe0800000000000000
+      internalID: -1213457823631099274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_142
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1557
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8ce71461b9ec40800000000000000
+      internalID: 5542155859912330721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_143
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1557
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0fcd243e182a670800000000000000
+      internalID: 8548537855781957810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_144
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1557
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d14eae7e1c6510800000000000000
+      internalID: 1543642301719500412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_145
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1557
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515dd7f47272861d0800000000000000
+      internalID: -3357390472413850347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_146
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1554
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda331ea139765110800000000000000
+      internalID: 1249319200922745567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_147
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1558
+        width: 97
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c30a1c2f4e78b0800000000000000
+      internalID: -5152593872831659716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_148
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1555
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed0dfc816fad980800000000000000
+      internalID: -8513221559164281292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_149
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1556
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f8f1bf13d217dc0800000000000000
+      internalID: -3643080930876223625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_150
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1563
+        width: 95
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b353d52cdee9950800000000000000
+      internalID: 6457860334739077986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_151
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1505
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae490f9eedbade0800000000000000
+      internalID: -1320716969358071192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_152
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1505
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35ef90f6c4bc320800000000000000
+      internalID: 2579239251392484321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_153
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1503
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82508514df5144a80800000000000000
+      internalID: -8483631620591975128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_154
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1504
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaecb2aa58317d10800000000000000
+      internalID: 2121538861396716282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_155
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1505
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0267004c27a5e0800000000000000
+      internalID: -1898500064399978650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_156
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1502
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcacb43824644000800000000000000
+      internalID: 19250422262574323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_157
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1505
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f9ce12f3f6d200800000000000000
+      internalID: 204619054316122543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_158
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1463
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fef00ece9df3df0800000000000000
+      internalID: -198200247186362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_159
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1451
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdeedf58cfac4ef0800000000000000
+      internalID: -122529814709080636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_160
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1448
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282027bad543b8020800000000000000
+      internalID: 2345025607889453698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_161
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1398
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f3cae5e43ac8c0800000000000000
+      internalID: -3978309158737546141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_162
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1398
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f5616401ce8770800000000000000
+      internalID: 8615035361764440041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_163
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1399
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cbc4eb745e77c30800000000000000
+      internalID: 4357203260802382859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1406
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d91f7bc7eed0460800000000000000
+      internalID: 7209680797919452561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_165
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1408
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0eac1c2453acd80800000000000000
+      internalID: -8229706808230747950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_166
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1403
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62220447989ea2e0800000000000000
+      internalID: -2112583399741709718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_167
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1407
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d46ee0628673f0800000000000000
+      internalID: -903391322413150166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_168
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1407
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55f1b248a40da00800000000000000
+      internalID: 779204667054708145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_169
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1404
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f500ed8aa86c90800000000000000
+      internalID: -7176298479889288097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_170
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1354
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd211c3501167cbe0800000000000000
+      internalID: -1457089231678532899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_171
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1354
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf80d52b28b6c370800000000000000
+      internalID: 8342557855207952313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_172
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1363
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59dca892f5408c0800000000000000
+      internalID: -4033994734190094925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_173
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1325
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1bad2227a29330800000000000000
+      internalID: 3716216407770995814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_174
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1315
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468dfe477164adb80800000000000000
+      internalID: -8369299890954577820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_175
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1312
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3d645695123870800000000000000
+      internalID: 8661008768792607362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_176
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1312
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4598b40f079730800000000000000
+      internalID: 4005686906520423183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_177
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1315
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477dc6b398d2cc5c0800000000000000
+      internalID: -4193927085558016140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_178
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1362
+        width: 148
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d817c4d079d72e0800000000000000
+      internalID: -2126377365676126936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_179
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1307
+        width: 148
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848014f23517ae20800000000000000
+      internalID: 3361678955442635904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_180
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1299
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9698aee493fc55b0800000000000000
+      internalID: -5378156034002479457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_181
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1212
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5a33a2cd2df7d0800000000000000
+      internalID: -2883097872461832458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_182
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1212
+        width: 100
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff01c4aec5dff380800000000000000
+      internalID: -8935188052175679500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1159
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637254a986b469190800000000000000
+      internalID: -7956088779066497226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_184
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1164
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77b5031da8bca20800000000000000
+      internalID: 3083711000929335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_185
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1160
+        width: 100
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda595ca6921774e0800000000000000
+      internalID: -1984096672487482659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_186
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1162
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b07af008265390800000000000000
+      internalID: -7830026917470226056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_187
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1160
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b824738803bc6f9b0800000000000000
+      internalID: -5046622923117870453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_188
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1154
+        width: 87
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b4124d69b81e40800000000000000
+      internalID: 5627451613310661084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_189
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1154
+        width: 94
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634edd937aa431710800000000000000
+      internalID: 1662754769520682038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_190
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1164
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc426021c3fd00f0800000000000000
+      internalID: -1148994319112057673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_191
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1065
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120fa2982776c48b0800000000000000
+      internalID: -5166640930875576287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_192
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1063
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a334114fdabcfe80800000000000000
+      internalID: -8143428558160383065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb9f58048a56b00800000000000000
+      internalID: 821247502144094037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_194
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1015
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cadb0d6cda476a0800000000000000
+      internalID: -6452341296697856962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_195
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1009
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284fba996d17bfb0800000000000000
+      internalID: -4632201352322267098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_196
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1003
+        width: 98
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f2186d1f8ef060800000000000000
+      internalID: 6989181028188484083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_197
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1012
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673daea44f22a8f30800000000000000
+      internalID: 4578510403799798646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_198
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1023
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cb0858e1411d70800000000000000
+      internalID: 9012056795510458329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_199
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1015
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70851aacaa939b1f0800000000000000
+      internalID: -1028727634170652665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_200
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1012
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0e1b21298ec640800000000000000
+      internalID: 5102166203407666223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_201
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 912
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b86972fc39f260800000000000000
+      internalID: 7131798497034548601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_202
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 918
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bea10dfebd7d7a0800000000000000
+      internalID: -6352366926347703508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_203
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 924
+        width: 193
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e72ef6573fec50800000000000000
+      internalID: 6696632017693958183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_204
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 909
+        width: 184
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9867912189d0da0800000000000000
+      internalID: -5976953926946747949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_205
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 906
+        width: 170
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3465fceef7e8e410800000000000000
+      internalID: 1506709157438645307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_206
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 897
+        width: 197
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87785631d6d1810800000000000000
+      internalID: 1737664961310062774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 826
+        width: 187
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0fc8055103f1cb0800000000000000
+      internalID: -4891137802197208876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_208
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 822
+        width: 195
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42418c7d1f1af2c0800000000000000
+      internalID: -4397167874670509492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_209
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 798
+        width: 235
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49b33544b6538b0800000000000000
+      internalID: -5173110655766784837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_210
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 803
+        width: 232
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f552518aeec4e60800000000000000
+      internalID: 7947989848078769946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_211
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 848
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c325162b9b32d7d0800000000000000
+      internalID: -2895186072900918336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_212
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 799
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698cd2dbbd0a53b0800000000000000
+      internalID: -5523086892668778144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_213
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 711
+        width: 223
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d7a42debdf3830800000000000000
+      internalID: 4053200001225445469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_214
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 709
+        width: 197
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ddb12522a8bb670800000000000000
+      internalID: 8555583797131468080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_215
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 712
+        width: 212
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa5b387a9774b00800000000000000
+      internalID: 812752018139884255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_216
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 716
+        width: 236
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f125bd1ec6055b0800000000000000
+      internalID: -5381681837404709059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_217
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 620
+        width: 214
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c4ee1f83cd2d0f0800000000000000
+      internalID: -1093569622362403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_218
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 624
+        width: 203
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e2ab5b86a05d90800000000000000
+      internalID: -7111000694149947214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_219
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 649
+        width: 215
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233cae30658f83df0800000000000000
+      internalID: -200137135101394126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_220
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 650
+        width: 195
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76026331b447b9880800000000000000
+      internalID: -8603154797367517081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_221
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 603
+        width: 198
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e99676b09cc360800000000000000
+      internalID: 7191281818352083796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_222
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 576
+        width: 247
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e2adc873474340800000000000000
+      internalID: 4847917710012770243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_223
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 517
+        width: 234
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46736708f39576970800000000000000
+      internalID: 8748058930463520612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_224
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 521
+        width: 294
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e04151c7892e020800000000000000
+      internalID: 2369624012647304858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_225
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 499
+        width: 261
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355b0a8cfd64f3e0800000000000000
+      internalID: -2020869401367325387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_226
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 425
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49e2a9d09d53230800000000000000
+      internalID: 3618036528106607868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_227
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 425
+        width: 295
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ce1d43bec27120800000000000000
+      internalID: 2410216020084966681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_228
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 401
+        width: 294
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80886e91dddb620800000000000000
+      internalID: 2791630447351171287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_229
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 450
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e4fc992dbea6240800000000000000
+      internalID: 4785896843790732866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_230
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 450
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5b3923f6023d20800000000000000
+      internalID: 3256673121980865446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_231
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 349
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d899f2b898bf6a0800000000000000
+      internalID: -6414382013367087824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ffabf7133f9d040800000000000000
+      internalID: 4673033482295508818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_233
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 259
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5a22f4c0fb0080800000000000000
+      internalID: -9220011083443839365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_234
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 259
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008595c223981abe0800000000000000
+      internalID: -1467741154960648192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_235
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 348
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02865d6c07870f780800000000000000
+      internalID: -8651282458411177952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_236
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 259
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616070c66fcdc1820800000000000000
+      internalID: 2890428011797480982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_237
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 199
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b95533af42dcac0800000000000000
+      internalID: -3833367050800751818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_238
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 115
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5c388a51c22010800000000000000
+      internalID: 1162704248391883654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_239
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888bd8f7fed82e590800000000000000
+      internalID: -7646393157544986488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_240
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11e62c501e51d50800000000000000
+      internalID: 6707514634891301352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_icon_equipment_241
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e39dd2194895c00800000000000000
+      internalID: 889888160456719945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
